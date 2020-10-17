@@ -1,0 +1,11 @@
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Form1.resources
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Form2.resources
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.Properties.Resources.resources
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csproj.GenerateResource.cache
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.exe.config
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.exe
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\bin\Debug\SehirTahminOyunu.pdb
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.exe
+C:\Users\Alperen\source\repos\CSharpCourse\SehirTahminOyunu\obj\Debug\SehirTahminOyunu.pdb
